@@ -1,6 +1,6 @@
 # What is it?
 
-A starter theme for Imaginaire Digital internal use as starting point for ecommerce projects built on Woocommerce. Based on Roots Sage.
+A starter theme for <a href="https://www.imaginaire.co.uk">Imaginaire</a> internal use as starting point for ecommerce projects built on Woocommerce. Based on Roots Sage.
 
 # How do I install it?
 
