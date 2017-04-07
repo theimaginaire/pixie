@@ -14,4 +14,5 @@ A starter theme for Imaginaire Digital internal use as starting point for ecomme
 # Anything else to note?
 
 * You can use gulp watch when working on the project to auto-refresh the page whenever you make changes (extra geek points)
+* Power to the <a href="https://www.imaginaire.co.uk/web-design/">Web Design</a> team!
 
