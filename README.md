@@ -8,6 +8,7 @@ A starter theme for <a href="https://www.imaginaire.co.uk">Imaginaire</a> intern
 * Run npm install
 * Run bower install
 * Run gulp
+* Go to assets/manifest.json and change devURL
 
 * Set up new repository for your project and make sure you run git remote set-url origin https://github.com/USERNAME/OTHERREPOSITORY.git
 
