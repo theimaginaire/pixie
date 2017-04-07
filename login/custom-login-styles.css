@@ -41,3 +41,9 @@ body.login {
 	text-decoration: none;
 	border-bottom: 1px dotted #fff;
 }
+.wp-core-ui .button-primary, .login .button-primary {
+	border: none;
+	border-radius: 0;
+	background: #588f27;
+	color: #fff;
+}
